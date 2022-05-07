@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121110822426",
+    "project_id": "enotes-2187c",
+    "storage_bucket": "enotes-2187c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121110822426:android:7b1d506137f82dee779ba3",
+        "android_client_info": {
+          "package_name": "com.example.enotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121110822426-opaorpg5bb1gigok6dhfbdbq5llfgri0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhazss9cyobzQ4KCacuGAB4EaYECuxyh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121110822426-opaorpg5bb1gigok6dhfbdbq5llfgri0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

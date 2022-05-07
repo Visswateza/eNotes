@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/drawable/underline.xml" value="0.1525" />
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/layout/activity_course.xml" value="0.16032608695652173" />
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/layout/activity_dashboard.xml" value="0.18" />
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/layout/activity_edit_course.xml" value="0.2" />
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/layout/activity_sign_in.xml" value="0.1" />
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/layout/activity_sign_up.xml" value="0.16032608695652173" />
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/layout/activity_view_course.xml" value="0.2" />
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/layout/content.xml" value="0.2" />
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/layout/course.xml" value="0.23357664233576642" />
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/layout/image.xml" value="0.2" />
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/layout/status_bar.xml" value="0.2" />
+        <entry key="..\:/Android Studio/eNotes/app/src/main/res/layout/url.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
